@@ -84,6 +84,6 @@ This application was developed as part of a thesis research project. With the su
 
 This project is based on the original research repository:
 
-**🔗 Original Source**: [https://github.com/CoKeFish/android-sensor-data-logger.git](https://github.com/Jeisson177/scripts-tesis)
+**🔗 Original Source**: [https://github.com/Jeisson177/scripts-tesis](https://github.com/Jeisson177/scripts-tesis)
 
 
