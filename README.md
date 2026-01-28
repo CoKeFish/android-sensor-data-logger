@@ -84,12 +84,6 @@ This application was developed as part of a thesis research project. With the su
 
 This project is based on the original research repository:
 
-**🔗 Original Source**: [https://github.com/CoKeFish/android-sensor-data-logger.git](https://github.com/CoKeFish/android-sensor-data-logger.git)
+**🔗 Original Source**: [https://github.com/CoKeFish/android-sensor-data-logger.git](https://github.com/Jeisson177/scripts-tesis)
 
----
 
-<div align="center">
-  <p><strong>Research supported by</strong></p>
-  <p><a href="https://www.odt.gov.co"><strong>Operadora Distrital de Transporte - La Rolita</strong></a></p>
-  <p><em>Bogotá, Colombia</em></p>
-</div>
